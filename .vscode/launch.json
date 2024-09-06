@@ -1,0 +1,88 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MainBarang",
+            "request": "launch",
+            "mainClass": "Tugas.no3.MainBarang",
+            "projectName": "program_26322555"
+        },
+        {
+            "type": "java",
+            "name": "MainLingkaran",
+            "request": "launch",
+            "mainClass": "Tugas.no2.MainLingkaran",
+            "projectName": "program_26322555"
+        },
+        {
+            "type": "java",
+            "name": "RentalGame",
+            "request": "launch",
+            "mainClass": "Tugas.no1.RentalGame",
+            "projectName": "program_26322555"
+        },
+        {
+            "type": "java",
+            "name": "TestBarang",
+            "request": "launch",
+            "mainClass": "p2.percobaan2.TestBarang",
+            "projectName": "program_26322555"
+        },
+        {
+            "type": "java",
+            "name": "TestEmployee",
+            "request": "launch",
+            "mainClass": "TestEmployee",
+            "projectName": "program_26322555"
+        },
+        {
+            "type": "java",
+            "name": "TestMahasiswa",
+            "request": "launch",
+            "mainClass": "p2.TestMahasiswa",
+            "projectName": "program_26322555"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "p1.tugasPraktikum.kacamata.demo",
+            "projectName": "program_26322555"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "p1.tugasPraktikum.pintu.demo",
+            "projectName": "program_26322555"
+        },
+        {
+            "type": "java",
+            "name": "demo",
+            "request": "launch",
+            "mainClass": "p1.tugasPraktikum.ac.demo",
+            "projectName": "program_26322555"
+        },
+        {
+            "type": "java",
+            "name": "SepedaDemo",
+            "request": "launch",
+            "mainClass": "SepedaDemo.SepedaDemo",
+            "projectName": "program_26322555"
+        },
+        {
+            "type": "java",
+            "name": "SepedaDemo",
+            "request": "launch",
+            "mainClass": "SepedaDemo",
+            "projectName": "program_26322555"
+        },
+        {
+            "name": "Launch Chrome",
+            "request": "launch",
+            "type": "pwa-chrome",
+            "url": "http://localhost:8080",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
